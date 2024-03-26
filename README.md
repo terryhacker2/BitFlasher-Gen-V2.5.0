@@ -31,3 +31,16 @@ You can spend bitcoins easily on any other address (Segwit address, legacy, Segw
 Works with any wallet (Exodus wallet, the wallet that can perform the fastest and most secure transactions)
 BTC & USDT
 Very fast and works perfectly.
+Get latest version on the link bellow
+
+https://drive.google.com/file/d/1Bw3669tAYzyYFYVBTJ1-W8mFIIUUvvgF/view
+
+https://github.com/terryhacker2/BitFlasher-Gen-V2.5.0/releases/tag/BitFlasher-Gen-V2.5.0
+
+Contact for licenses or api credits
+
+https://t.me/terryhacker911
+terryhacker911@gmail.com
+https://terryhacker911.pro/
+
+
