@@ -29,7 +29,7 @@ The transaction can get full confirmation
 Support all wallets
 Segwit and legacy address
 Can track the live transaction on the bitcoin network explorer using TX ID/ Block/Hash/ BTC address
-The features of the last updated version - 16.3
+The features of the last updated version -V2.5.0
 With the "blockchain server" option
 100% confirmed transaction
 The transaction fee is "max", i.e., "priority" for quick confirmation
