@@ -43,11 +43,11 @@ Get latest version on the link bellow
 https://drive.google.com/file/d/1Bw3669tAYzyYFYVBTJ1-W8mFIIUUvvgF/view
 
 https://github.com/terryhacker2/BitFlasher-Gen-V2.5.0/releases/tag/BitFlasher-Gen-V2.5.0
-
-Contact for licenses or api credits
-
 https://t.me/terryhacker911
 terryhacker911@gmail.com
 https://terryhacker911.pro/
+Contact for licenses or api credits
+
+
 
 
