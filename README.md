@@ -1,4 +1,4 @@
-# BitFlasher-Gen-V2.5.0-win32-x64
+# BitFlasher-Gen-V3.0-win32-x64
 An instructional program called Bitflasher was created to provide services for bitcoin flashing.
 
 sending victims bitcoin using a hash key that was created by an unidentified miner.
