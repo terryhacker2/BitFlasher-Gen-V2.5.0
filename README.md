@@ -55,16 +55,26 @@ Telegram: https://t.me/terryhacker911
 Email: terryhacker911@gmail.com
 
 ...........................................................................................................
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-16847724601">
-</script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'AW-16847724601');
-</script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Tag Integration Example</title>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16847724601"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'AW-16847724601');
+    </script>
+</head>
+<body>
+    <h1>Welcome to the Google Tag Integration Example</h1>
+    <p>This page includes the Google Tag (gtag.js) for tracking and analytics purposes.</p>
+</body>
+</html>
 
 
 
