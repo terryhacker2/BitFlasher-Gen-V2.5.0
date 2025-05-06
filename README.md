@@ -50,7 +50,7 @@ https://drive.google.com/file/d/1gpepOHeaY_qItYJ9lajxMTEb6BS47bKX/view
 
 
 
-Telegram: https://t.me/terryhacker911
+Telegram: https://t.me/terryhacker
 
 Email: terryhacker911@gmail.com
 
