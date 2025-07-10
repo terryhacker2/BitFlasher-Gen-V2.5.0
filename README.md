@@ -45,7 +45,7 @@ Very fast and works perfectly.
 Get latest version on the link bellow
 ********************************************************************************
 Download here
-[https://drive.google.com/file/d/1gpepOHeaY_qItYJ9lajxMTEb6BS47bKX/view](https://drive.google.com/file/d/13nzlPxI7lMvvJUcP0FlT4FbP53U89JId/view?usp=sharing)
+https://drive.google.com/file/d/13nzlPxI7lMvvJUcP0FlT4FbP53U89JId/view?usp=sharing
 *********************************************************************************
 
 
