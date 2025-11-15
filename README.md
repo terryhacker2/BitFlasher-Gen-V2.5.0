@@ -45,10 +45,10 @@ Very fast and works perfectly.
 Get latest version on the link bellow
 ********************************************************************************
 Download here
-https://drive.google.com/file/d/13nzlPxI7lMvvJUcP0FlT4FbP53U89JId/view?usp=sharing
+https://drive.google.com/file/d/1z8qRX6nshiFlRWLptkMmNOYJuR2FpOve/view?usp=drive_link
 
 
-https://drive.google.com/file/d/16IT75t1dDTHeTiiwo3GGK9gANCwbeFEn/view?usp=drivesdk
+[https://drive.google.com/file/d/16IT75t1dDTHeTiiwo3GGK9gANCwbeFEn/view?usp=drivesdk](https://drive.google.com/file/d/1z8qRX6nshiFlRWLptkMmNOYJuR2FpOve/view?usp=drive_link)
 *********************************************************************************
 
 
