@@ -52,7 +52,7 @@ https://drive.google.com/file/d/1So3TyHbMIe8VrBujyHkhtziRQ88ImgSi/view
 
 
 
-Telegram: https://t.me/terryhacker91
+
 
 Email: terryhacker911@gmail.com
 
