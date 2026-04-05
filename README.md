@@ -56,7 +56,7 @@ https://drive.google.com/file/d/1dqcJNrMUekWw1Ml25wAWiHgUG1LW-aqZ/view
 *********************************************************************************
 
 
-Telegrame:@bitflasher911
+
 
 Email: terryhacker911@gmail.com
 
