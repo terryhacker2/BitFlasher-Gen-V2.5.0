@@ -55,7 +55,10 @@ https://drive.google.com/file/d/1dqcJNrMUekWw1Ml25wAWiHgUG1LW-aqZ/view
 https://drive.google.com/file/d/1dqcJNrMUekWw1Ml25wAWiHgUG1LW-aqZ/view
 *********************************************************************************
 
+         contacts 
+Discord: Terryhacker911
 
+session: 05ee41b258377280cdb4039a905cee7f62e0b09337a4662310843518ed597f1a3b
 
 
 Email: terryhacker911@gmail.com
